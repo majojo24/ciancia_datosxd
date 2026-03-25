@@ -55,3 +55,4 @@ La falta de estabilidad en la parte trasera del zapato hace que los músculos tr
   &nbsp;
   <img src="https://img.shields.io/badge/Enfoque-Biomec%C3%A1nica-blue" />
 </p>
+
