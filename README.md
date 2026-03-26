@@ -52,7 +52,6 @@ La falta de estabilidad en la parte trasera del zapato hace que los músculos tr
   <img src="https://img.shields.io/badge/Enfoque-Biomec%C3%A1nica-blue" />
 </p>
 
-<p align="center">
-<img src=["https://image.api.playstation.com/vulcan/ap/rnd/202107/1921/b6GkX2E2Y6g4GvK5K5Yh4G7.png?w=600" width="100%"](https://www.mannarinoandbrasfield.com/images/blog/basketball-ball-shoes-sneakers-defective.jpg) />
-</p>
+Imagen desde URL externa
+![Logo]([https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg](https://www.mannarinoandbrasfield.com/blog/college-players-injury-may-have-been-caused-by-a-defective-sneaker))
 
